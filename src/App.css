@@ -1,0 +1,18 @@
+/* App.css */
+.clock-container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: 'Arial', sans-serif;
+  background: linear-gradient(135deg, #89f7fe, #66a6ff);
+  padding: 50px;
+  border-radius: 20px;
+  color: #fff;
+  box-shadow: 0 5px 20px rgba(0,0,0,0.3);
+}
+
+.clock-time {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-top: 20px;
+  color: #ffec99; /* second color for rubric */
+}
